@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/acegui">
+        <file>images/dataowner.png</file>
+        <file>images/datauser.png</file>
+    </qresource>
+</RCC>
